@@ -189,9 +189,3 @@ git lfs pull
 <img width="358" height="700" alt="WhatsApp Image 2026-11-16 at 15 30 56" src="https://github.com/user-attachments/assets/0db7ca66-3ca4-4e8f-8f98-e017b6c87ecb" />
 <img width="358" height="700" alt="WhatsApp Image 2026-11-16 at 15 30 30" src="https://github.com/user-attachments/assets/a174a1b7-9b5d-4d45-b3cf-a5248782475c" />
 
-## License and Acknowledgements
-
-- **Code:** MIT License. The `LICENSE` file credits *Shivakant Kurmi* (2025) as copyright holder.
-- **3D models:** [Z-Anatomy](https://sketchfab.com/Z-Anatomy) on Sketchfab. The repository's MIT license does **not** automatically cover these models; check the licence terms on the Sketchfab pages before redistributing them.
-- **Vuforia Engine:** Proprietary software from PTC, subject to its own license and EULA. It is not covered by this repository's license.
-- **TextMesh Pro** sample fonts and assets ship with their own licence files under `Assets/TextMesh Pro/`.
